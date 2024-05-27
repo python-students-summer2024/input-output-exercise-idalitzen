@@ -19,7 +19,7 @@ def main():
     Calls each of the functions in the practice_output and practice_input files
     """
 
-    # call each function defined in practice_output
+    #call each function defined in practice_output
     practice_output.print_with_line_break()
     practice_output.print_without_line_break()
     practice_output.print_with_separator_dash_and_with_line_break()
